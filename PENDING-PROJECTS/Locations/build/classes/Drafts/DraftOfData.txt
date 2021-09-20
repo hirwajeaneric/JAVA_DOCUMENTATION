@@ -1,0 +1,70 @@
+Kigali
+North
+South
+East
+West
+
+Kigali:0
+Districts: 1,2,3
+Sectors: 
+
+North:1
+Districts: 4,5,6
+Sectors: 
+
+South:2
+Districts: 7,8,9
+Sectors: 
+
+East:3
+Districts: 11,12,13
+Sectors:
+
+West:4
+Districts: 14,15,16
+Sectors:
+
+
+DISTRICTS:
+
+KIGALI:
+0 Gasabo 1
+0 Kicukiro 2
+0 DNyarugenge 3
+
+NORTH:
+1 Burera 4
+1 Gakenke 5
+1 Gicumbi 6
+1 Musanze 7
+1 Rulindo 8
+
+SOUTH:
+2 Gisagara 9
+2 Huye 10
+2 Kamonyi 11
+2 Muhanga 12
+2 Nyamagabe 13
+2 Nyanza 14
+2 Nyaruguru 15
+2 Ruhango 16
+
+EAST:
+3 Bugesera 17
+3 Gatsibo 18
+3 Kayonza 19
+3 Kirehe 20
+3 Ngoma 21
+3 Nyagatare 22
+3 Rwamagana 23
+ 
+WEST:
+4 Karongi 24
+4 Ngororero 25
+4 Nyabihu 26
+4 Nyamasheke 27
+4 Rubavu 28
+4 Rusizi 29
+4 Rutsiro 30
+
+

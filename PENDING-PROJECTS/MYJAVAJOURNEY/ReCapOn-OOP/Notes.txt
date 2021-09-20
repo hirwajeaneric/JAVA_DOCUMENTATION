@@ -1,0 +1,1 @@
+I have a problem in multiple classes. In the way a class can perform a certain activity and another class uses values from that class.

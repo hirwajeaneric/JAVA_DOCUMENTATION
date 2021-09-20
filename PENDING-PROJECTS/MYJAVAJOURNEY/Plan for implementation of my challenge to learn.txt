@@ -1,0 +1,198 @@
+CLARIFICATION OF ALL THE PROJECTS THAT I HAVE + MILLESTONES:
+-----------------------------------------------------------
+1. JAVA: ** THE ONLY WAY TO SUCCEED IN JAVA, I NEED TO BE REALLY GOOD IN JAVA. THE TIME OF TRYING IS NO MORE. IN PROGRAMMING. YOU EITHER KNOW OR ARE FAMILIAR OR NOT. NOTHING ELSE. **
+
+	* MILLESTONES: - Do all the projects that I am supposed to do in Java
+						- Post the source codes on Github and make the projects more elegant and presentable.
+						- Learn Webtech in advance
+						- Understand about JavaFX and other stuffs that I need to know as soon as possible 
+						- make web apps that I can use either in webdevelopment or in just making other services.
+		+ Process:
+			Things I need to learn:
+				- I/O.(How to create, send and save files like Images,documents,...)
+				- Using what I learned during the Java Exam Yesterday, I should find a way to accept a file or a path in I/O so as to use that method to improve my SMS Project
+				- Learn to create forms and designs in JAVA. There are many ways to do it. I might for instance learn by just working alone, Or create forms and then reverse Ingeneer them. This is surely one of the great ways to do it.
+				- Create a better library and organize my PC and Github workspace.
+				- Using what I learned during the Java Exam Yesterday, I should find a way to accept a file or a path in I/O so as to use that method to improve my SMS Project
+				- Annotations and how they work better
+				- Use of criterias and play around with more and more different better functionalities of database
+				- Learn how to create a Generic Dao
+				- The location project.
+				- Further dive in how to actually use RMI and SOCKETS to communicate in real life.
+				- Understand Better the architecture of the Chat application.
+				- Work on other similar projects of Chat applications.
+				- Make a more updated and better Chat application with all the necessary functionalities.
+				- Make a chat application that works like whatsapp.
+				- Make a chat application that can actually send Images and other files.
+				- Learn deeply HEAD FIRST to understand how these JAVA Stuffs work.
+				- Solve the One Hundred Question without skipping any.
+				 
+			Projects I need to do:
+				- Location system
+				- Covid Vaccination System
+				- Calculator
+				- Note pad
+				- Re-write the code of SMS Hibernate + Generic Dao and so on.
+				- Full Hibernate system that has even a Login system
+				- Auca Management system
+				- Library Management system.
+				- The other Company that Agnes told me about
+				- Auca Registration System.
+				- A fully function and updated chat application with I/O and more
+				- Simple games using socket programming.
+				- Create a project which generates questions, people work on them, and then the software gives them a form that confirms to them that they have worked. I has to include their identification + their grades. (I might even be having a project as such.)
+	* Connect my website with a JAVA Backend.
+
+
+2. WEBDESIGN:
+
+	* MILLESTONES: - Be at the level of Using a prototype and create a website from scratch and make it deliverable.
+						- Be able to make myself a website that I am confident of. The website should be able to showcase my projects and works and projects in an expressive way.
+						- Be able to make to Create with mike the other website we want.
+						- Understand better more about stuffs done in HTML/CSS and how to make more and more attractive stuffs with them.
+						- Be able to do good animation and sliders in HTML/CSS
+						- Learn the basics of JavaScript and how it interacts with HTML/CSS
+						- Start and master how to use React
+		+ Process:
+			Things I need to learn and master:
+				- Flex box (How to make simple websites with Flex box)
+				- Finish the book HEAD FIRST HTML/CSS
+				- Start and finish HEAD FIRST JavaScript
+				- How to use Images and all the styles related to them
+				- How responsiveness works better.
+				- Learn how to make Cards (Cards which can accommodate almost all the neccessary stuffs.)
+				- How to make different styles of creating Menues 
+				- The toggle button and other different ways to hide a website menue
+				- How to make slide shows
+				- How to create progress bars
+				- Testimonial sections
+				- Chat Box
+				- Articles
+	
+3. UX/UI DESIGN:
+	* MILLESTONES: - Create different prototypes for all the projects that I wish to do.
+						- Make a collection of at least 20 prototypes before the year ends.
+						- Learn to design prototypes of different Operating systems.
+						- Master using Adobe XD to the extend I can make a prototype and share it on a network
+						- Learn to use Figma also
+						- Read the two books of UX/UI Designs like: Hooked and Don't make me think.			
+		+ Process:
+			Things I must do to master:
+				- Learn and design all the projects that other people did without the objective of posting them or making modifications of them.
+				- Only post designs which are a result of my own creativity and thinking, where every thing will be justifiable and presentable.
+				- Learn to make PPTs for my project, from the presentations of logos and other design to different other stuffs.	
+					
+4. GRAPHIC DESIGN:
+	* MILLESTONES: - Be able to make my own logos from scratch.
+						- Making more than 10 logos that I can present either to my own portfolio or use on a website that sells them.
+						- Able to make good and amazing 3D designs, Tools, and even adverts or posters.
+						- Able to use Layer masks to do create amazing and exclusive stuffs.
+						- Able to use Adobe Premier to animate some of my own works.
+						- Able to create nearly all the possible designs available.
+		+ Process:
+			What it takes me to be able to do that:
+				- Make designs with a good will and single objective of gaining experience and ideas
+				- Posting only designs I came up with
+				- Designing everything I have in my own computer which is a design.
+				- Make a collection of all the most exclusive designs and choose the ones which will be used as a portfolio.
+				- Master the use of software like: Adobe inDEsign, XD and Premier
+				- 
+	
+5. WORDPRESS DEVELOPMENT:
+	* MILLESTONES: - Be able to make sure I can support a person using TeamView and other resources available.
+						- Be able to use a prototype or gather requirements of a use and create a website from scratch or using a theme and make an interactive website.
+						- Be able to make a child theme.
+						- Be able to create a plugin or Section in Workdpress.
+						- Be able to create a theme in wordpress
+						- Be able to do migration and post and host my own website on different kinds of host companies, being free or paid ones.
+						- Be able to use WooCommerce systems. 
+
+
+AFTER ALL THIS: I WILL BE READY TO ATLEAST SAY THAT I CAN PROUDLY GO ASK FOR A JOB.
+
+
+
+
+
+********************************************************************************************
+IMPLEMENTATION:
+********************************************************************************************
+
+
+
+
+HOW SHALL I IMPLEMENT ALL THESE PROJECTS IN A WAY THAT WILL NOT BE STRESSING ME?
+
+I. I will do all these listed stuffs with only one objective:
+	Learning and understanding how things work.
+	Experience and the ability to solve problems using my experience
+	Boosting my creativity in the industry in which I am
+	Generate income by the use of my skills in a controlled way.
+	Do things that literaly solve my own or other people's problems rather than doing stuffs which help me to raise my ego yet without improving in a tangible and practical way
+	Make what I do, design and development a career to pays me well, but also that I enjoy and that I am also ready to make new and innovative things into.
+	
+II. Work on these stuffs in a progressive an parallel way. In such cases, there will be no problems of retardation or having projects which are pended or forgoten.
+
+	That will be accomplished in this way.
+	I have 5 areas to work on:
+		1. JAVA Programming
+		2. Graphic Design
+		3. Web Design
+		4. Wordpress
+		5. UX/UI Design
+		
+	I will be working on these areas according to those which will not be exhausting me:
+	This means that I won't be working on areas which all will be requirering writing codes. 
+	For instance, I won't take JAVA and Web Design together.
+	I also won't take Graphic Design and UX/UI Design together.
+	I also won't take Wordpress together with web Design.
+	
+	IN A BETTER WAY OF DOING THINGS, EACH ONE HAS TO BE A RECREATION FROM ANOTHER ONE.
+	Otherwise, I would fall in the problem of feeling uninterested since I stay in stuffs too 	long that it becomes no more enjoyable.
+	
+	I will therefore be learning and working on all these like this:
+	1. JAVA + UX/UI Design
+	2. WordPress + Graphic Design
+	3. WebDesign + Reading about Design and other books
+	
+	I will be doing this in an alternating manner where I will be taking 3 Days to work on a project, rest one day and repeat another section of 3 days before moving to another series.
+	
+	This means that It would be taking me 3 weeks to end the Circle.
+	However, According to the time In which I will be in, I will also be choosing tasks that I will be doing on a regural basis due to the objective at hand.
+	
+	Every 3 Days of work will be made of # parts:
+	1. Preparation and setting Goals
+	2. Execution
+	3. Self-evaluation and noting down remarks.
+	
+SO HERE IS A TIMETABLE:
+
+Before the year ends, I am left with 17 weeks.
+
+I will make 6 circles of these tasks before ending the year.
+1. JAVA + UX/UI Design
+2. WordPress + Graphic Design
+3. WebDesign + Reading about Design and other books
+
+4. JAVA + UX/UI Design
+5. WordPress + Graphic Design
+6. WebDesign + Reading about Design and other books
+
+7. JAVA + UX/UI Design
+8. WordPress + Graphic Design
+9. WebDesign + Reading about Design and other books
+
+10. JAVA + UX/UI Design
+11. WordPress + Graphic Design
+12. WebDesign + Reading about Design and other books
+
+13. JAVA + UX/UI Design
+14. WordPress + Graphic Design
+15. WebDesign + Reading about Design and other books
+
+16. JAVA + UX/UI Design
+17. WordPress + Graphic Design
+18. WebDesign + Reading about Design and other books
+	
+		 
+	
