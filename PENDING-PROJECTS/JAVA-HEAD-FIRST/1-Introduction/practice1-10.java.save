@@ -1,0 +1,9 @@
+public class practice1-10 {
+	public static void main() {
+		int x;
+		if (x == 10) {
+		
+	System.out.println("X must be 10");
+		}
+	}
+}

@@ -1,0 +1,56 @@
+1. Connect:
+	Client connects to the server by establishing a socket connection
+	- Make a socket connection to 196.164.1.103 at port 5000
+2. Send: 
+	Client sends message to the server
+	- writer.println(aMessage)
+3. Receive
+	Client gets a message from the server
+	- String s = reader.readLine()
+
+MAKE A NETWORK SOCKET CONNECTION:
+--------------------------------
+To make a socket connection, you need to know two things about the server: 
+Who it is, and which port it's running on. 
+
+In orther words: IP ADDRESS & PORT NUMBER.
+
+Socket chatSocket = new Socket("196.164.1.103",5000);
+
+** Socket connection means the two machines have information about each
+other, including network location (IP address) and TCP Port.
+
+AFTER THE SERVER AND THE CLIENT ARE CONNECTED, LET'S CHAT.
+*********************************************************
+To read data from a socket, use a BufferedReader.
+To communicate over a Socket connection, you use streams.
+
+HOW IT WORKS:
+
+1. Make a socket connection to the server:
+	socket chatSocket = new Socket("172.0.0.1", 5000);
+
+2. Make an InputStreamReader chained to the Socket's:
+low-level (Connection) input stream
+	InputStreamReader stream = new InputStreamReader(chatSocket.getInputStream());
+
+3. Make a BufferedReader and read:
+	BufferedReader reader = new BufferedReader(stream);
+	String message = reader.readLine();
+
+HOW TO WRITE TO A SOCKET?
+*************************
+To write data to a Socket, use a PrintWriter
+1. Connect to the server
+
+2. Make a PrintWriter chained to the Socket's low-level (Connection)
+ output stream:
+	PrintWriter writer = new PrintWriter(chatSocket.getOutputStream());
+
+3. Write(print)
+	write.println("Message to send");
+
+
+WRITING A SIMPLE SERVER:
+************************
+

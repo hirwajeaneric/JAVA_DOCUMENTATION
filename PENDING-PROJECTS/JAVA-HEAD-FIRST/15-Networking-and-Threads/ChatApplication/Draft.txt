@@ -1,0 +1,18 @@
+//How to create a thread?
+Thread t = new Thread();
+t.start();
+
+//Threads do not run alone. Without the task or code to run, it dies immediately.
+A thread is a separate 'thread of execution'.
+In other words, a separate call stack.
+A Thread is a Java class that represents a thread. 
+To make a thread make a Thread.
+
+//Another thing to be taken in consideration is the runnable object (the thread's job)
+Runnable threadJob = new MyRunnable();
+
+//This is how it is done
+
+Runnable threadJob = new MyRunnable();
+Thread myThread = new Thread(threadJob);
+myThread.start();

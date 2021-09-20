@@ -1,0 +1,14 @@
+1. One of good ideas I was able to make according to this project of socket programming and what I have been learning is about creating a project which works in this way.
+Just by basing to the other project that Agnes told me.
+An application that would help a business manage their stock.
+This means that they would need to store their information like details
+of incoming stock and outcoming stock. 
+
+However, the challenge would be this one.
+Just think of a project where there are actually more than one person making these transactions on the stock.
+This means more that on person adding and removing goods from the stock.
+
+Then clearly there would be a need to use multi-threading and socket programming to be able to make these people who are working on the same stock but at the same time using different clients get real time information about the stock and then know how to manage the stock accordingly.
+
+I believe that can infact be implemented using socket programming + Database. 
+

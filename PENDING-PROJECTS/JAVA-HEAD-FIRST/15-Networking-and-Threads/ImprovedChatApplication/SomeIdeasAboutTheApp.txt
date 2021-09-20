@@ -1,0 +1,6 @@
+How I think I can make this app even more attractive:
+What is needed here is making an app that shows who speaks.
+
+To know who is speaking, we need first to send the server the names of those who are present.
+
+After we have the names, every client who speaks, their names will be preceeding their message.

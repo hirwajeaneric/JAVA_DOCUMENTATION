@@ -1,0 +1,5 @@
+1. assigning the value 27 to variable 27
+2. Assigning string "Fido" to variable name
+3. Declaring an object called myDog that recieves the dog's name and the size
+4. x equals to the size minus 5
+5. If x is less than 15, 

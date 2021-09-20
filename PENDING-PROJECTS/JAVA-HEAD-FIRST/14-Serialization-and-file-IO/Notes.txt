@@ -1,0 +1,17 @@
+The objective of this chapter is to find a way to save states or send files or 
+projects as they were in our java programs to reach or be reused as they were before.
+
+There are therefore many different ways to do it.
+1. Use serialization if your data will be used by only the Java Program that 
+    generated it. To make a class serializable, create a class and implement serializable.
+    HOWEVER: If you don't want one of the classes of your instances to be serialized, 
+    Or if you want it to be skipped, Mark an it as transient.
+    EX: 
+    import java.net.*;
+    class Chat implements serializable {
+        transient String currentID;
+        String username;
+        //More code
+    }
+    
+2. 
