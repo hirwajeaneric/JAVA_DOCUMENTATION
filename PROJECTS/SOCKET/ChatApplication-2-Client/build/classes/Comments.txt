@@ -1,0 +1,37 @@
+These are comments about how this project was implemented.
+
+1. CLIENT SIDE
+
+* ListenThread()
+* userAdd()
+* userRemove()
+* writeUsers()
+* sendDisconnect()
+* Disconnect()      
+* send_it()         //Method that send message to private user (Inbox)
+#CLASS: IncomingReader
+** ConnectButtonActionPerformed()
+** disconnectButtonActionPerformed
+** sendButtonActionPerformed
+** onlineUsersActionPerformed
+** privateMessageButtonActionPerformed
+** chatTextFieldKeyPressed
+
+2. SERVER SIDE
+
+#CLASS: ClientHandler()
+#Variables: BufferedReader, Socket, PrintWriter
+#Constructor with parm (clientSocket, PrintWriter)
+#* run()
+** endButtonAcionPerfomed()
+** startButtonendButtonAcionPerfomed()
+** onlineUsersendButtonAcionPerfomed()
+** clearButtonActionPerformed
+#CLASS: ServerStart
+#* run()
+* userAdd()
+* userRemove()
+* tellEveryone
+* getid()
+* tellthispersononly()
+* writeUsers()
